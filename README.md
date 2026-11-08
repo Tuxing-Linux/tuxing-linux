@@ -35,8 +35,24 @@ i will put a graphical lightweight interface(like some WM or DE) with a X server
 (like school, this distro, music and other things). I'm making this distro because I really like
 linux and the idea of making something open-source that anyone could use.
 
-*Have you changed the name of the distro?: Yes i had because, the preview name was being used in a Youtube Channel.
+
 --------------------------------------------------------------------------------------------------
+
+
+**News**:
+
+
+*We have new members!
+
+*I'm working to make fluxbox functional for the distro
+
+*I'm creating my own package-manager(FSPM) for the distro
+
+
+
+--------------------------------------------------------------------------------------------------
+
+
 
 Here I'll show how to compile the system and provide the source code:
 
