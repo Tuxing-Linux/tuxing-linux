@@ -153,6 +153,11 @@ Linux® is the registered trademark by Linus Torvalds
 This projects uses software under the GNU General Public License v2(GPLv2)
 Musl Libc is licensed under the MIT License
 BusyBox is licensed under the GNU General Public License v2(GPLV2)
+Tiny C Compiler (TCC) is licensed under the GNU Lesser General Public License v2.1 (LGPLv2.1)
+Fluxbox is licensed under the MIT License
+Xorg components are licensed under various open-source licenses, primarily the MIT/X11 License
+Standard terminal utilities (such as nano, alsamixer, and others) are included under their respective upstream open-source licenses (GPL, MIT, BSD)
+
 
 
 -Ricardo Otávio Mariano da Silva [07/05/2026]
